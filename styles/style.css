@@ -1,0 +1,117 @@
+
+.Contenedor-main{
+    width: 100%;
+    height: 300px;
+    padding: 50px;
+   background-color: gray; 
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.informacionPersonal{
+   color: white;
+   margin-right: 50px;
+}
+
+.colorRed{
+    color: red;
+}
+
+
+.contactoInfo{
+    color: white;
+}
+
+
+.aboutMe {
+width:50% ;
+height: 200px;
+text-align: center ;
+padding: 10px;
+background-color: gray;
+color: white;
+margin: 5px;
+
+}
+
+.aboutMe h3 {
+color: red;
+}
+
+
+
+
+.Educacion{
+    width:50% ;
+    height: 300px;
+    text-align: center ;
+    padding: 50px;
+    background-color: gray;
+    color: white;
+    margin: 5px;
+}
+
+.Educacion h3{
+    color: red;
+}
+
+.contenedor-secundario {
+    display: flex;
+}
+
+.skills {
+    width: 49%;
+    height: 200px;
+    text-align: center ;
+    padding: 0px;
+    background-color: gray;
+    color: white;
+    margin: 5px; 
+    align-items: normal;
+    display: block;
+   
+}
+.skills h3 {
+    color: red;
+    font-size: medium;
+
+}
+
+.referencia{
+  width: 50%;
+  height: 100px;
+  text-align: center;
+  padding: 10px;
+  background-color: gray;
+  color: white;
+  margin:5px;
+  align-items: normal;
+  position: relative;
+}
+
+.referencia h3 {
+    color: red;
+}
+
+
+.Hobbies {
+    width: 50%;
+    height: 170px;
+    background-color: gray;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    margin: 5px;
+    align-items: normal;
+    position: relative;
+    display: block;
+
+}
+
+.Hobbies h4 {
+    color: red;
+
+}
+
+
